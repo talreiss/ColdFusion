@@ -4,7 +4,6 @@ Official PyTorch Implementation of [**"From Zero to Hero: Cold-Start Anomaly Det
 
 
 ## Cold-Start Anomaly Detection 
-![False facts](./figures/alignment.png)
 
 The cold-start setting provides two types of guidance: 
 
