@@ -1,6 +1,6 @@
 ## From Zero to Hero: Cold-Start Anomaly Detection
 
-Official PyTorch Implementation of [**"From Zero to Hero: Cold-Start Anomaly Detection"**](https://arxiv.org/) (ACL 2024).
+Official PyTorch Implementation of [**"From Zero to Hero: Cold-Start Anomaly Detection"**](https://arxiv.org/pdf/2405.20341) (ACL 2024).
 
 
 ## Cold-Start Anomaly Detection 
@@ -41,5 +41,10 @@ python coldfusion.py [--dataset] [--model]
 ## Citation
 If you find this useful, please cite our paper:
 ```
-
+@article{reiss2024zero,
+  title={From Zero to Hero: Cold-Start Anomaly Detection},
+  author={Reiss, Tal and Kour, George and Zwerdling, Naama and Anaby-Tavor, Ateret and Hoshen, Yedid},
+  journal={arXiv preprint arXiv:2405.20341},
+  year={2024}
+}
 ```
