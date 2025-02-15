@@ -7,4 +7,4 @@ scipy==1.13.0
 seaborn==0.13.2
 torch==2.3.0
 tqdm==4.66.4
-transformers==4.41.0
+transformers>=4.48.0
